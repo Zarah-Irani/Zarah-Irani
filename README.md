@@ -5,10 +5,10 @@
 # Zarah Irani  ✨  
 **Business Analytics × Marketing | AI & Tech Management**
 
-[Website](https://your-pages-site) ·
+[Website]([https://your-pages-site](https://zarah-irani.github.io/Zarah-Irani/)) ·
 [Email](mailto:zarah.irani13@gmail.com) ·
 [LinkedIn](https://www.linkedin.com/in/zarah-irani) ·
-[Resume](./Zarah%20Irani%20Resume.pdf)
+
 
 </div>
 
